@@ -1,0 +1,14 @@
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/bin/Debug/net8.0/MyApp
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/bin/Debug/net8.0/MyApp.dll
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/bin/Debug/net8.0/MyApp.pdb
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/obj/Debug/net8.0/MyApp.dll
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/obj/Debug/net8.0/MyApp.pdb
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/mnt/c/Users/chagopi/GOPI/C-Sharp/MyApp/obj/Debug/net8.0/ref/MyApp.dll
